@@ -1,0 +1,7 @@
+{
+  "name": "Weblifestyle",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
